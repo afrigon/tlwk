@@ -52,9 +52,12 @@ This will allow you to perform the skip the druid usualy does in pug groups.
 
 You are in charge to keep Rigom [Immobilized](#immobilize). Make sure you keep applying soft crowd control effect onto Guldhem as they will be transfered to Rigom.
 
-### Wing 5
+## Wing 5
 
-ranger go brr
+The elementalist will swap to ranger for all of `Hall of Chains`.
 
-druid pusher build
+### Soulless Horror
+
+Your job on this encounter is to push the Tormented dead outside the arena. They will be following the tank currently **not** fixated. Position yourself in a way that allows you you to push them out before they reach the group using `Glyph of Tides` and `Point-Blank Shot`.
+
 - [Build](http://gw2skills.net/editor/?POhAYNlVwSYKsGGJO2TetMA-zRJYqR1fhkaEUdRleq67BJU+bp9NL-e)
