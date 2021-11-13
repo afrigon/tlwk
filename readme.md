@@ -8,7 +8,7 @@ an invincible tank,
 and incredible barrier output from scourges.
 
 
-Specific changes for each boss
+> Specific changes for each boss
 are detailed in the class guides.
 
 ## Squad Layout
