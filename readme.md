@@ -7,7 +7,6 @@ It relies on a single healer,
 an invincible tank,
 and incredible barrier output from scourges.
 
-
 > Specific changes for each boss
 are detailed in the class guides.
 

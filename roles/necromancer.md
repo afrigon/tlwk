@@ -14,11 +14,11 @@
 
 ## Crowd Control
 
-- Oppresive Collapse / Torch 5 (200)
-- Wail of Doom / Warhorn 4 (200)
-- Garish Pillar / F4 (200)
-- Spectral Grasp (150-750)
-- Flesh Golem (600/800/1000 depending on the size of the hitbox)
+- `Oppresive Collapse` / Torch 5 (200)
+- `Wail of Doom` / Warhorn 4 (200)
+- `Garish Pillar` / F4 (200)
+- `Spectral Grasp` (150-750)
+- `Flesh Golem` (600/800/1000 depending on the size of the hitbox)
 
 ## Epidemic
 
@@ -43,7 +43,7 @@ Targets:
 ### Epi Out
 
 One necromancer will be designated as "epi out".
-Their job to copy conditions from boss to other targets.
+Their job is to copy conditions from boss to other targets.
 This player must be vocal so the rest of the team can
 use `Epidemic` to bounce conditions off the other targets back to the boss.
 Be careful with skill retargeting.
