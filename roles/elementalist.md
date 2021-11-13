@@ -4,7 +4,7 @@
 
 ## Boon Responsability
 
-The elementalist player brings protection, regeneration, might, vigor and swiftness for all 10 players.
+The elementalist brings protection, regeneration, might, vigor and swiftness for 10 players.
 
 ## Key Skills
 
@@ -20,18 +20,41 @@ The elementalist player brings protection, regeneration, might, vigor and swiftn
 
 ## Crowd Control
 
-- Oppresive Collapse / Torch 5 (200)
-- Wail of Doom / Warhorn 4 (200)
-- Garish Pillar / F4 (200)
-- Spectral Grasp (150-750)
-- Flesh Golem (600/800/1000 depending on the size of the hitbox)
+- Cyclone / Air Warhorn 4 (up to 9 hits of 150)
+- Transmute Lightning / Air Dagger 3 (100)
+- Tidal Surge / Water Warhorn 4 (150)
+
+### Immobilize
+
+- Aftershock
+- Earthen Rush / Earth Dagger 3
+
+### Cripple
+
+- Aftershock
+- Ring of Earth / Earth Dagger 2
+
+### Chill
+
+- Flash-Freeze
+- Frozen Burst / Water Dagger 3
 
 ## Special Roles
+
+### Twisted Castle
+
+For this encounter, swap your warhorn for a dagger to get access to `Ride the Lightning`. (Air Dagger 4)
+This will allow you to perform the skip the druid usualy does in pug groups.
+
+[Example](https://youtu.be/sN0EI6dOigc)
+
+### Samarog
+
+You are in charge to keep Rigom [Immobilized](#immobilize). Make sure you keep applying soft crowd control effect onto Guldhem as they will be transfered to Rigom.
 
 ### Wing 5
 
 ranger go brr
-
 
 druid pusher build
 - [Build](http://gw2skills.net/editor/?POhAYNlVwSYKsGGJO2TetMA-zRJYqR1fhkaEUdRleq67BJU+bp9NL-e)

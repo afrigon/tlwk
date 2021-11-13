@@ -6,11 +6,11 @@
 ## Key Skills
 
 - [Epidemic](#epidemic)
-- Specral grasp
-- Flesh Golem
-- Sand Swell
-- Trail of Anguish
-- Well of Darkness
+- `Specral Grasp`
+- `Flesh Golem`
+- `Sand Swell`
+- `Trail of Anguish`
+- `Well of Darkness`
 
 ## Crowd Control
 
@@ -22,7 +22,7 @@
 
 ## Epidemic
 
-Epidemic is a key skill on many bosses.
+`Epidemic` is a key skill on many bosses.
 It is used to cleave adds and
 to boost target dps by bouncing conditions
 back to the boss.
@@ -45,7 +45,7 @@ Targets:
 One necromancer will be designated as "epi out".
 Their job to copy conditions from boss to other targets.
 This player must be vocal so the rest of the team can
-use Epidemic to bounce conditions off the other targets back to the boss.
+use `Epidemic` to bounce conditions off the other targets back to the boss.
 Be careful with skill retargeting.
 
 ## Special Roles
@@ -62,28 +62,27 @@ Be ready to throw to players handling cannons.
 
 ### Soulless Horror Epidemic
 
-Be careful with the "epi out" on Soulless Horror.
+Be careful with "epi out" on Soulless Horror.
 Coordinate with the pusher to time killing the tormented dead,
 ideally off the platform.
 
 ### Cardinal Adina
 
-Instead of Epidemic, the "epi out" takes Sand Swell.
-Use Sand Swell to portal the party
+Instead of `Epidemic`, the "epi out" takes `Sand Swell`.
+Use `Sand Swell` to portal the party
 between the 2nd and 3rd hands in the split phases.
 
 ### Quadim the Peerless Kite
 
 #### Build Changes
 
-- Tormenting runes
-- Parasitic Contagion (curses traitline)
-- Flesh Golem
-- Sand Swell
+- `Parasitic Contagion` (Curses traitline)
+- `Flesh Golem`
+- `Sand Swell`
 
 Use the Special Action Key to link to one of the 3 pylons.
-Use Sand Swell to catch the orbs clockwise and bring them back to the pylon.
-You can leave your pylon for only a few seconds before Qudim reclaims your pylon.
-At 40%, 30% and 20% Qadim rushes to a pylon (north, west, east respectively) and destroy it.
+Use `Sand Swell` to catch the orbs clockwise and bring them back to the pylon.
+You can leave your pylon for only a few seconds before Qadim reclaims your pylon.
+At 40%, 30% and 20% Qadim rushes a pylon (north, west, east respectively) and destroys it.
 Watch boss health to avoid getting killed by this attack.
 After your pylon is destroyed, join the group and finish the fight as a dps.

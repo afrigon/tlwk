@@ -4,7 +4,10 @@
 
 ## Boon Responsability
 
-The revenant player brings alacrity for all 10 players with `Orders from Above` and the `Righteous Rebel` trait.
+### Alacrity
+
+The revenant player brings alacrity for
+10 players with `Orders from Above` and `Righteous Rebel`.
 
 ## Crowd Control
 
@@ -17,4 +20,6 @@ The revenant player brings alacrity for all 10 players with `Orders from Above` 
 
 ### Alternate Tank
 
-Since the build using celestial gear, the revenant player will be the alternate tank for emergency situations. (main tank dies or disconnect)
+Since the build uses celestial gear,
+the revenant player is the alternate tank for emergency situations
+(eg. main tank dies or disconnect).
