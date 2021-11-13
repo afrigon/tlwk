@@ -8,3 +8,4 @@
 - river maybe
 - eyes maybe if we do portal strat
 - quadim jp
+- quadim pyre

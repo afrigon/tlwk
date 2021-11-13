@@ -1,7 +1,7 @@
 # Necromancer
 
-- [build](http://gw2skills.net/editor/?PSxEs8NssBGImGjEL2r6nJA-zRJYmR7fh0SIkbB0RC49BJI2CvGQMtB-e)
-- [video guide](https://youtu.be/auDt9d45EFQ)
+- [Build](http://gw2skills.net/editor/?PSxEs8NssBGImGjEL2r6nJA-zRJYmR7fh0SIkbB0RC49BJI2CvGQMtB-e)
+- [Video Guide](https://youtu.be/auDt9d45EFQ)
 
 ## Key Skills
 
@@ -22,40 +22,68 @@
 
 ## Epidemic
 
-Epidemic is a key skill to use on most bosses. It is very useful to cleave other targets or to boost your target damage by bouncing the conditions from anything back to the boss.
+Epidemic is a key skill on many bosses.
+It is used to cleave adds and
+to boost target dps by bouncing conditions
+back to the boss.
 
-> Be very careful about the friendly slubling in Slothasor.
+Targets:
+
+- Vale Guardian: Seekers
+- Gorseval: Spirits and Orbs
+- Sabetha: Bandits and Karde's Flame Turrets
+- Slothasor: Slublings (**NOT FRIENDLY SLUBLING**)
+- Keep Construct: 
+- Xera: White Mantle adds
+- Mursaat Overseer: Jade Scouts
+- Deimos: Prides
+- Soulless Horror: Tormented Deads
+- Conjured Amalgamate: Swords and Shields
 
 ### Epi Out
 
-A necromancer will be designated as the "epi out". They have the job to copy conditions from boss to any other target. This player needs to be vocal about this so the rest of the team can use Epidemic to bounce the condition back to the boss.
-
-A few good candidate for this strategy:
-
-- Vale Guardian's Seekers
-- Mursaat Overseer's Jade Scouts
-- Soulless Horror's Tormented Deads
+One necromancer will be designated as "epi out".
+Their job to copy conditions from boss to other targets.
+This player must be vocal so the rest of the team can
+use Epidemic to bounce conditions off the other targets back to the boss.
+Be careful with skill retargeting.
 
 ## Special Roles
 
 ### Sabetha Flak Kite
 
-The designated "epi out" player will have to kite the flak on Sabetha. Simply hangout on the west side of the plateform. By being one the west side, you will most likely get the sapper bombs. Be ready to throw the players handling canons.
+The designated "epi out" will kite flak on Sabetha.
+Hangout on the west side of the platform to bait sapper bombs.
+Be ready to throw to players handling cannons.
 
-> Sabetha will stop throwing flak when she is not on the platform and during her flamewall attack.
+> Sabetha stops throwing flak
+  while off the platform
+  and during flamewall.
 
 ### Soulless Horror Epidemic
 
-Be careful with the "epi out" on Soulless Horror. You want to coordinate with the pusher to make sure you dont kill the tormented dead too soon. It needs to die outside the platform idealy. All the other necromancer should use epidemic on the tormented dead to maximize boss damage (be careful with skill retargeting).
+Be careful with the "epi out" on Soulless Horror.
+Coordinate with the pusher to time killing the tormented dead,
+ideally off the platform.
+
+### Cardinal Adina
+
+Instead of Epidemic, the "epi out" takes Sand Swell.
+Use Sand Swell to portal the party
+between the 2nd and 3rd hands in the split phases.
 
 ### Quadim the Peerless Kite
 
 #### Build Changes
 
+- Tormenting runes
 - Parasitic Contagion (curses traitline)
 - Flesh Golem
 - Sand Swell
 
-Your job is to link to one of the 3 pylons. Use Sand Swell to quickly grap the orb clockwise and bring it back to the pylon. You have a few seconds to do this until quadim claims your pylon back. At 40%, 30% and 20% quadim will rush to a pylon (north, west, east respectively) and destroy it. Watch the bosses health to avoid getting killed by the pylon's destruction. After your pylon is destroyed, go to the group and finish the fight as a dps.
-
-> Make sure you press the special action once to enable the flux capacitor and link to pylons.
+Use the Special Action Key to link to one of the 3 pylons.
+Use Sand Swell to catch the orbs clockwise and bring them back to the pylon.
+You can leave your pylon for only a few seconds before Qudim reclaims your pylon.
+At 40%, 30% and 20% Qadim rushes to a pylon (north, west, east respectively) and destroy it.
+Watch boss health to avoid getting killed by this attack.
+After your pylon is destroyed, join the group and finish the fight as a dps.
