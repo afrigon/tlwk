@@ -40,7 +40,7 @@ Targets:
 - Soulless Horror: Tormented Deads
 - Conjured Amalgamate: Swords and Shields
 
-### Epi Out
+### Epidemic Bouncing
 
 One necromancer will be designated as "epi out".
 Their job is to copy conditions from boss to other targets.

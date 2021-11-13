@@ -22,11 +22,29 @@ are detailed in the class guides.
 
 ## Toughness Check
 
-| Role          | Amount |
-| ------------- | ------ |
-| Mesmer        | >1720  |
-| Renegade      | 1720   |
-| Guardian      | 1010   |
-| Elementalist  | 1005   |
-| Warrior       | 1000   |
-| Necromancer   | 1000   |
+| Role           | Amount |
+| -------------  | ------ |
+| Mesmer         | >2173  | 
+| Heal Firebrand | 2173   |
+| Renegade       | 1720   |
+| Guardian       | 1010   |
+| Elementalist   | 1005   |
+| Warrior        | 1000   |
+| Necromancer    | 1000   |
+
+## TODO
+
+- Warrior hk
+- mat tank tempest
+- druid push
+- druid stun
+- druid kite g2
+- green demo
+- qtp scourge kite
+- sabetha flak kite
+- tank guides for mesmer
+- tower chrono
+- spirit wood portal
+- ca sword pov
+- ca shield pov
+- kite and lamp quadim description and pov

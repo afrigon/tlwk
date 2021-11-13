@@ -59,6 +59,10 @@ This is one of your strongest skill, it can save the group from a wipe in many c
 
 ## Special Roles
 
+### Escort
+
+You are in charge of Glenouche. Use the special action to move her ahead.
+
 ### Twisted Castle
 
 For this encounter, swap your warhorn for a dagger to get access to `Ride the Lightning`. (Air Dagger 4)
@@ -69,6 +73,14 @@ This will allow you to perform the skip the druid usualy does in pug groups.
 ### Samarog
 
 You are in charge to keep Rigom [Immobilized](#immobilize). Make sure you keep applying soft crowd control effect onto Guldhem as they will be transfered to Rigom.
+
+### Deimos
+
+Make sure you keep Saul healthy.
+
+### Twin Largos Kite
+
+You should stay further out to kite the steal attack from Kenut. Dodge the hit to avoid getting your boons stolen.
 
 ### Quadim Matriarch Tank
 

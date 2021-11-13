@@ -1,5 +1,21 @@
+# Warrior
+
+- [Build](http://gw2skills.net/editor/?PKxAw+NlRwYYcsOmJWaX1NVA-zRJYmRH/pEnCISRQlSgcFCy9gICd/hYPIAXDIuBA-e)
+
+## Key Skills
+
+- `Throw Bolas`
+- `Battle Standard`
+
+## Buff Responsability
+
+Place banners, pick them up between 60s and 20s remaining on cooldown to recast immediately.
 
 ## Special Roles
+
+### Escort Back Warg
+
+Kill the back wargs chasing the group.
 
 ### Deimos Hand Kite
 
