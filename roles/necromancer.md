@@ -33,7 +33,7 @@ Targets:
 - Gorseval: Spirits and Orbs
 - Sabetha: Bandits and Karde's Flame Turrets
 - Slothasor: Slublings (**NOT FRIENDLY SLUBLING**)
-- Keep Construct: 
+- Keep Construct: Mesmer Projections
 - Xera: White Mantle adds
 - Mursaat Overseer: Jade Scouts
 - Deimos: Prides

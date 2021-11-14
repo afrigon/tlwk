@@ -8,7 +8,7 @@
 - `Flash-Freeze`
 - `Eye of the Storm`
 - `Feel the Burn`
-- `Wash the Pain` Away
+- `Wash the Pain Away`
 - `Rebound`
 - `Heat Sync` / Fire Warhorn 4
 - `Sand Squall` / Earth Warhorn 4
