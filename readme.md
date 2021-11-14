@@ -31,22 +31,3 @@ are detailed in the class guides.
 | Elementalist   | 1005   |
 | Warrior        | 1000   |
 | Necromancer    | 1000   |
-
-## TODO
-
-- Warrior hk
-- mat tank tempest
-- druid push
-- druid stun
-- druid kite g2
-- green demo
-- qtp scourge kite
-- sabetha flak kite
-- tower chrono
-- spirit wood portal
-- quadim lamp pov
-- ca sword pov
-- ca shield pov
-- kite quadim description and pov
-- tank guides for mesmer
-- slothasor distort

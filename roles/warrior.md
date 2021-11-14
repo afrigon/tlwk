@@ -52,7 +52,7 @@ Use `Shield Stance` / Shield 5 to block the `Mind Crush` and chain it with your 
 
 `Endure Pain` is your panic button.
 
-[Build](http://gw2skills.net/editor/?PKhAk7lNwCZdMOGJeaX2PdA-zxIYwok/MSVBkuQwuHkQZJ8W6fYD-e)
+[Example](https://youtu.be/-6bmv44-olc) - [Spellbreaker Handkite Build](http://gw2skills.net/editor/?PKhAk7lNwCZdMOGJeaX2PdA-zxIYwok/MSVBkuQwuHkQZJ8W6fYD-e)
 
 ### Eye of Judgment / Fate
 

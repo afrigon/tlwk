@@ -60,6 +60,8 @@ Be ready to throw to players handling cannons.
   while off the platform
   and during flamewall.
 
+[Example](https://youtu.be/pJPLghfyhyA)
+
 ### Soulless Horror Epidemic
 
 Be careful with "epi out" on Soulless Horror.
@@ -87,6 +89,7 @@ between the 2nd and 3rd hands in the split phases.
 Use the Special Action Key to link to one of the 3 pylons.
 Use `Sand Swell` to catch the orbs clockwise and bring them back to the pylon.
 You can leave your pylon for only a few seconds before Qadim reclaims your pylon.
-At 40%, 30% and 20% Qadim rushes a pylon (north, west, east respectively) and destroys it.
-Watch boss health to avoid getting killed by this attack.
+At 40%, 30% and 20% Qadim rushes a pylon (north, west, east respectively) and destroys it. Watch the boss health to avoid getting killed by this attack.
 After your pylon is destroyed, join the group and finish the fight as a dps.
+
+[Example](https://youtu.be/sS1BYgUZEog)

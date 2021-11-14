@@ -6,4 +6,4 @@ The goal is to get to the end of the maze where a friendly creature await. Kill 
 
 ![quadim lamp](/images/quadim-lamp.jpg)
 
-[Example]()
+[Example TODO]()

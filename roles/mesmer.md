@@ -64,13 +64,11 @@ One of your most powerful ability is `Signet of Inspiration` to extend all boons
 
 ### Spirit Wood
 
-You can portal the team from a capture point to another by abusing the `Adrenal Mushrooms`.
+- You can portal the team from a capture point to another by abusing the `Adrenal Mushrooms`.
+- If you are tryhard you can `Continuum Split` one more portal in the spirit run.
+- After the glide in spirit run, you can portal the team from the capture point directly to the final wall using a double blink.
 
-### Spirit Run
-
-After the glide in spirit run, you can portal the team from the capture point directly to the final wall using a double blink.
-
-[Example]()
+[Example](https://youtu.be/u1r2K-o2zm4)
 
 ### Escort
 
@@ -78,7 +76,7 @@ You job is to risk your life and go through the cave to portal people up the tow
 
 > Don't fly in front of the tower or you will get kocked and die of falling damage.
 
-[Example]() - [Build](http://gw2skills.net/editor/?PixAw27lVwCZasLGKeuT5tWA-zRJYjRL/Z0iUIdFgGPIBwW4ts74G-e)
+[Example TODO]() - [Tower Chronomancer Build](http://gw2skills.net/editor/?PixAw27lVwCZasLGKeuT5tWA-zRJYjRL/Z0iUIdFgGPIBwW4ts74G-e)
 
 ### Twisted Castle
 
@@ -90,11 +88,11 @@ Make a portal to get to the lower section of `Twisted Castle` to make sure your 
 
 For the burn phases, you will be responsible to port the entire group from quadim to the resolution pyre.
 
-[Example]()
+[Example TODO]()
 
 Another use for the portal is to skip the jumping puzzle after the wyvern phase.
 
-[Example]()
+[Example TODO]()
 
 ## Tanking
 
@@ -117,7 +115,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - Make sure the shards are cleared before moving to an edge.
 - The idea is to position xera in a way that will not be in a `Gravity Well`, shards or in the center while the laser attack is happening.
 
-[Example]()
+[Example TODO]()
 
 ![xera_tanking_guide.pdf](/images/xera.png "Xera Tank Positioning")
 
@@ -155,7 +153,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - When soulsplit happens, tank in the center until the dip if there is space
 - Immediately bring the boss to the enforcer if one spawns. (at the start or if a big orb is missed)
 
-[Example]()
+[Example TODO]()
 
 ### Twin Largos
 
@@ -175,7 +173,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - Sidestep or block all the attacks (they apply chill, bleed, poison and make your life miserable)
 - The jump will go in the direction the hydra is facing. You can move during the last bite attack to decide where the hydra moves to.
 
-[Example]()
+[Example TODO]()
 
 #### Destroyer
 
@@ -183,7 +181,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - Sidestep the attacks.
 - If an attack is impossible to sidestep use a block or an evade.
 
-[Example]()
+[Example TODO]()
 
 #### Wyvern
 
@@ -193,7 +191,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - Avoid the `Slash` by dodging the sideways punch (kockback) and being inside the hitbox to avoid the downward punch.
 - Follow and continue tanking if the wyvern moves.
 
-[Example]()
+[Example TODO]()
 
 ### Cardinal Adina
 
@@ -209,7 +207,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - Position yourself on the left side between the pylon and the orb during the third barrage of attacks to drop the road (you can stack the roads on top of each other during `Deja Vu`)
 - At 20%, make sure you are the first player in the circle to get fixation. You can stay close to quadim and dodge the kockback
 
-[Example]()
+[Example TODO]()
 
 ## Special Roles
 
@@ -217,7 +215,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 
 You can use signets to gain distortion and jump inside slothasor during the shake to destroy most of the projectiles. This will reduce the fatality of this attack.
 
-[Example]()
+[Example TODO]()
 
 ### Bandit Trio
 
@@ -243,4 +241,4 @@ Make sure to take the first [green 2](/mechanics/dhuum-green.md) on circle to fr
 
 During the orb collection phase (when an arm dies), the mesmer player is in charge of collecting **all** 15 sword orbs. When you reach 5 stack of swords, position yourself to pick up the next one and cast them on the boss. (this will lock you in place for a second) Keep the 10 remaining stack to use on the arm if the boss is close to phase. (50% and 25%) Otherwise, use the 10 stack when the first 5 run out. The sword orbs start from the left when facing the boss.
 
-[Example]()
+[Example TODO]()
