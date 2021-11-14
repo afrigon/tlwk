@@ -25,7 +25,7 @@ This is the most important boon to apply, the elementalist brings protection for
 
 ### Might
 
-Use the fire overload to stack might and blast your fire field using `Aftershock` and `Sand Squell`. Abuse `Heat Sync` / Fire Warhorn 4 to copy **ALL** of your might to nearby allies (adds on top of currently applied might). Bring `Feel the burn` if you dont need superspeed.
+Use the fire overload to stack might and blast your fire field using `Aftershock` and `Sand Squell`. Abuse `Heat Sync` / Fire Warhorn 4 to copy **ALL** of your might to nearby allies (adds on top of currently applied might).
 
 ### Regeneration and Vigor
 
@@ -47,6 +47,24 @@ You can get access to superspeed by taking `Eye of the Storm`. While this can be
 
 The elementalist will be in charge of all the healing on most bosses. Make sure to go into water regularly to refresh the `Soothing mist` buff on everyone. In high pressure situation, use `Wash the pain away`, `Water Globe` / Water Warhorn 5 > `Frozen Burst` / Water Dagger 3 or water overload for a burst of heal.
 
+## Magnetic Aura
+
+- `Aftershock`
+- `Sand Squall`
+- `Rebound`
+
+> Be sure to never grant magnetic aura on fights where reflect can be bad like cairn and matthias.
+
+## Rebound
+
+This is one of your strongest skill, it can save the group from a wipe in many cases like:
+
+- Deimos: Mind Crush
+- Conjured Amalgamate: Clap
+- your mom: Clap
+- Quadim: Failed CC
+- Cardinal Sabir: Shockwave
+
 ## Crowd Control
 
 - `Cyclone` / Air Warhorn 4 (up to 9 hits of 150)
@@ -67,24 +85,6 @@ The elementalist will be in charge of all the healing on most bosses. Make sure 
 
 - `Flash-Freeze`
 - `Frozen Burst` / Water Dagger 3
-
-## Magnetic Aura
-
-- `Aftershock`
-- `Sand Squall`
-- `Rebound`
-
-> Be sure to never grant magnetic aura on fights where reflect can be bad like cairn and matthias.
-
-## Rebound
-
-This is one of your strongest skill, it can save the group from a wipe in many cases like:
-
-- Deimos: Mind Crush
-- Conjured Amalgamate: Clap
-- your mom: Clap
-- Quadim: Failed CC
-- Cardinal Sabir: Shockwave
 
 ## Special Roles
 
