@@ -1,6 +1,6 @@
 # Necromancer
 
-- [Build](http://gw2skills.net/editor/?PSxEs8NssBGImGjEL2r6nJA-zRJYmR7fh0SIkbB0RC49BJI2CvGQMtB-e)
+- [Condition Scourge Build](http://gw2skills.net/editor/?PSxEs8NssBGImGjEL2r6nJA-zRJYmR7fh0SIkbB0RC49BJI2CvGQMtB-e)
 - [Video Guide](https://youtu.be/auDt9d45EFQ)
 
 ## Key Skills
@@ -65,6 +65,10 @@ Be ready to throw to players handling cannons.
 Be careful with "epi out" on Soulless Horror.
 Coordinate with the pusher to time killing the tormented dead,
 ideally off the platform.
+
+### Quadim Lamp
+
+2 necromancer player will be designated to go in the [lamp](/mechanics/quadim-lamp.md)
 
 ### Cardinal Adina
 

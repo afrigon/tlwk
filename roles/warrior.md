@@ -1,21 +1,40 @@
 # Warrior
 
-- [Build](http://gw2skills.net/editor/?PKxAw+NlRwYYcsOmJWaX1NVA-zRJYmRH/pEnCISRQlSgcFCy9gICd/hYPIAXDIuBA-e)
+[Condition Banner Berserker Build](http://gw2skills.net/editor/?PKxAw+NlRwYYcsOmJWaX1NVA-zRJYmRH/pEnCISRQlSgcFCy9gICd/hYPIAXDIuBA-e)
 
 ## Key Skills
 
-- `Throw Bolas`
+- `Banner of Strength`
+- `Banner of Discipline`
 - `Battle Standard`
+- `Shattering Blow`
+- `Throw Bolas`
+- `Shake it Off`
+- `Shake it Off`
+- `Winds of Disenchantments`
 
 ## Buff Responsability
 
-Place banners, pick them up between 60s and 20s remaining on cooldown to recast immediately.
+### Banners
+
+The warrior brings `Banner of Strength` and `Banner of Discipline` for 10 players.
+
+## Crowd Control
+
+- `Head Butt` (300)
+- `Wild Blow` (332)
+- `Stomp` (232)
+- `Kick` (150)
+- `Bull's Charge` (300)
+- `Pommel Bash` / Mace 3 (100)
+- `Tremor` / Mace 5 (300)
+- `Skull Grinder` / Mace F1 (100)
 
 ## Special Roles
 
 ### Escort Back Warg
 
-Kill the back wargs chasing the group.
+Handle the back wargs chasing the group. Bring immobilize to make the job easier.
 
 ### Deimos Hand Kite
 
@@ -37,8 +56,8 @@ Use `Shield Stance` / Shield 5 to block the `Mind Crush` and chain it with your 
 
 ### Eye of Judgment / Fate
 
-stun bonkaroo
+Your job here is to keep the eye stuned using the `Light orb` skill 2: `Flare`. Keep an eye on the stun duration and use a light to refresh it before it runs out. Use a sigil of paralization to extend the duration of the stun.
 
 ### Dhuum Green 1
 
-You're in charge of [green 1](/mechanic/dhuum-green.md).
+You're in charge of [green 1](/mechanics/dhuum-green.md). Make sure to use `Scorched Earth` on the star reaper to clear out spiders.

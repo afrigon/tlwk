@@ -42,9 +42,11 @@ are detailed in the class guides.
 - green demo
 - qtp scourge kite
 - sabetha flak kite
-- tank guides for mesmer
 - tower chrono
 - spirit wood portal
+- quadim lamp pov
 - ca sword pov
 - ca shield pov
-- kite and lamp quadim description and pov
+- kite quadim description and pov
+- tank guides for mesmer
+- slothasor distort

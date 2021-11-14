@@ -1,7 +1,7 @@
 # Guardian
 
-- [Condition Quickness Firebrand](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt90B-zRJYmR3/ZkgKoDJgYPIjQ6fE7g4DgN1AL8cWB-e) to be played in most places
-- [Heal Tank Firebrand](http://gw2skills.net/editor/?PWxAk6ZlRweYaMMmJmyWrPdA-zRJYjRHfZUdKkeF47BJU2Dvl23sA-e) for Wing 5 and Twin Largos
+- [Condition Quickness Firebrand Build](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt90B-zRJYmR3/ZkgKoDJgYPIjQ6fE7g4DgN1AL8cWB-e) to be played in most places
+- [Heal Tank Firebrand Build](http://gw2skills.net/editor/?PWxAk6ZlRweYaMMmJmyWrPdA-zRJYjRHfZUdKkeF47BJU2Dvl23sA-e) for Wing 5 and Twin Largos
 
 ## Key Skills
 
@@ -66,6 +66,7 @@ Samarog fixates on the first player it sees, then on the furthest player away af
 - Aim for both tanks to have up to 2 or 3 stacks of `Necrosis` at all time
 - Position the boss halfway between the center and the edge of the arena to make pushing easier and have more time to react to walls
 - Move quickly when a wall is going in your direction
+- The tank that does not have fixation will be chased by the tormented dead. **Never** split up with the other tank or you will make the pushing impossible.
 
 ### Twin Largos
 
@@ -87,7 +88,7 @@ During the orb collection phase (when an arm dies), the guardian player is in ch
 
 ### Qadim The Peerless Third Lämp
 
-When Qadim reaches 33% health, go in the lamp to provide stability to your team while fighting the Giant Veterans by the end of the maze.
+When Qadim reaches 33% health, go in the [lamp](/mechanics/quadim-lamp.md) to provide stability to your team while fighting the Giant Veterans by the end of the maze.
 
 ### River
 
@@ -99,4 +100,4 @@ Stay on top of the wall, collect light orbs before they get stolen by adds, and 
 
 ### Dhuum Green 3
 
-You're in charge of [green 3](/mechanic/dhuum-green.md).
+You're in charge of [green 3](/mechanics/dhuum-green.md).
