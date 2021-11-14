@@ -1,6 +1,6 @@
 # Elementalist
 
-[Heal Tempest Build](http://gw2skills.net/editor/?PGhEgEWGBrh5wYYlYafd16A-zRRYQhULVNaqqsKjqLg0TAfPIiyGI/NVALtvZB-e)
+[Heal Tempest Build](http://gw2skills.net/editor/?PGhEgEWGBrh5gVil2kerD-zRRYQhUDUNaqq+KjqLg0TAfPIiyGI/NVALtvZB-ekk)
 
 ## Key Skills
 
@@ -17,27 +17,31 @@
 
 ## Boon Responsability
 
-The elementalist brings protection, regeneration, might, vigor and swiftness for 10 players.
+The elementalist brings protection, regeneration, might, fury, vigor and swiftness for 10 players.
 
 ### Protection
 
 This is the most important boon to apply, the elementalist brings protection for the entire squad with `Aftershock` and `Sand Squall`. Any overload will also grant protection.
 
-### Regeneration and Vigor
-
-The regeneration and vigor boons can be provided simply by using `Aftershock`, `Sand Squall` and `Flash-Freeze` since you have the trait `Invigorating Torrents` that gives regeneration and vigor for 10 seconds when you apply an aura.
-
 ### Might
 
 Use the fire overload to stack might and blast your fire field using `Aftershock` and `Sand Squell`. Abuse `Heat Sync` / Fire Warhorn 4 to copy **ALL** of your might to nearby allies (adds on top of currently applied might). Bring `Feel the burn` if you dont need superspeed.
 
-### Swiftness
+### Regeneration and Vigor
 
-Use `Eye of the storm` and swap to air from time to time to keep a good uptime on swiftness. If you don't need cc, `Cyclone` can be used for more swiftness.
+The regeneration and vigor boons can be provided simply by using `Aftershock`, `Sand Squall`, `Feel the Burn` and `Flash-Freeze` since you have the trait `Invigorating Torrents` that gives regeneration and vigor for 10 seconds when you apply an aura.
+
+### Fury and Swiftness
+
+The fury and swiftness boons can be provided simply by using `Aftershock`, `Sand Squall`, `Feel the Burn` and `Flash-Freeze` since you have the trait `Zephyr's Boon` that gives fury and swiftness for 10 seconds when you apply an aura.
 
 ### Extension
 
 One of your most powerful ability is `Sand Squall` to extend all boons currently applied to everyone in the squad for 3 seconds.
+
+### Superspeed
+
+You can get access to superspeed by taking `Eye of the Storm`. While this can be very good on most fights, be extremely careful to not give this buff on fights where it could kill your teamates like Cardinal Adina or Escort.
 
 ## Healing
 
@@ -71,10 +75,6 @@ The elementalist will be in charge of all the healing on most bosses. Make sure 
 - `Rebound`
 
 > Be sure to never grant magnetic aura on fights where reflect can be bad like cairn and matthias.
-
-## Superspeed
-
-While superspeed can be very good on most fights, be extremely careful to not give this buff on fights where it could kill your teamates like Cardinal Adina or Escort.
 
 ## Rebound
 
