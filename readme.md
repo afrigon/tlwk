@@ -12,13 +12,13 @@ are detailed in the class guides.
 
 ## Squad Layout
 
-| Subgroup 1                    | Subgroup 2               |
-| ----------------------------- | ------------------------ |
-| Condition Quickness Firebrand | Heal Tempest             |
-| Condition Alacrity Renegade   | Boon Chronomancer        |
-| Condition Scourge             | Condition Banner Warrior |
-| Condition Scourge             | Condition Scourge        |
-| Condition Scourge             | Condition Scourge        |
+| Subgroup 1                                          | Subgroup 2                                    |
+| --------------------------------------------------- | --------------------------------------------- |
+| [Condition Quickness Firebrand](/roles/guardian.md) | [Heal Tempest](/roles/elementalist.md)        |
+| [Condition Alacrity Renegade](/roles/revenant.md)   | [Boon Chronomancer](/roles/mesmer.md)         |
+| [Condition Scourge](/roles/necromancer.md)          | [Condition Banner Warrior](/roles/warrior.md) |
+| [Condition Scourge](/roles/necromancer.md)          | [Condition Scourge](/roles/necromancer.md)    |
+| [Condition Scourge](/roles/necromancer.md)          | [Condition Scourge](/roles/necromancer.md)    |
 
 ## Toughness Check
 
