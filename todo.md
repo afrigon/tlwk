@@ -39,7 +39,7 @@
 
 ## Mechanics
 
-- [ ] Dhuum Green
+- [x] Dhuum Green
 - [ ] Lamp
 
 ## Other
