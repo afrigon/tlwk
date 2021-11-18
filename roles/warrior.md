@@ -1,5 +1,6 @@
 # Warrior
 
+[Power Banner Berserker Build](http://gw2skills.net/editor/?PKBBcelnlRg1x4Yk44bZ1AA-zxQYhon8fHKwp0iQICJQFKgWGBe6gEG7g3i+zAA-e)
 [Condition Banner Berserker Build](http://gw2skills.net/editor/?PKxAw+NlRwYYcsOmJWaX1NVA-zRJYmRH/pEnCISRQlSgcFCy9gICd/hYPIAXDIuBA-e)
 
 ## Key Skills
@@ -10,8 +11,9 @@
 - `Shattering Blow`
 - `Throw Bolas`
 - `Shake it Off`
-- `Shake it Off`
 - `Winds of Disenchantments`
+- `Battle Standards`
+- `Signet of Might`
 
 ## Buff Responsability
 

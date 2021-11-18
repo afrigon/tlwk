@@ -1,7 +1,7 @@
 # Mesmer
 
 For fights with toughness tanking mechanic, you should run a build similar to this one to make sure you will never die and have the most toughness.
-[Boon Chronomancer Build](http://gw2skills.net/editor/?PixAw27lVA7gdip8VbrF-zRJYjRL/Z0iUIdFgGPIBwW4ts74G-e)
+[Boon Chronomancer Build](http://gw2skills.net/editor/?PixAw27lVA7gdin6UerF-zRJYjRL/Z0iUIdFgGPIBwW4ts74G-e)
 
 ## Key Skills
 

@@ -1,5 +1,6 @@
 # Revenant
 
+[Power Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAwyZlxQLMPaj1RaMOKjRSjMCygJzl9rH-zRRYbhCAHdk/lRFVQ6pgtHkwYP8W0fGA-e)
 [Condition Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAkeVlhQLsIajJRaMIKjBSjMBygjul/TH-zxIY1oj/UiTBEpEoSRQuCBPeQCi9wrBEfVA-e)
 
 ## Boon Responsability
@@ -16,3 +17,4 @@ The revenant player brings alacrity for
 - `Darkrazor's Daring` (up to 6 hits of 100)
 - `Call to Anguish` (150)
 - `Surge of the Mist` / Staff 5 (up to 9 hits of 150)
+- `Jade Winds` (300)
