@@ -1,7 +1,7 @@
 # Revenant
 
-[Power Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAwyZlxQLMPaj1RaMOKjRSjMCygJzl9rH-zRRYbhCAHdk/lRFVQ6pgtHkwYP8W0fGA-e)
-[Condition Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAkeVlhQLsIajJRaMIKjBSjMBygjul/TH-zxIY1oj/UiTBEpEoSRQuCBPeQCi9wrBEfVA-e)
+- [Power Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAwyZlxQLMPaj1RaMOKjRSjMCygJzl9rH-zRRYbhCAHdk/lRFVQ6pgtHkwYP8W0fGA-e)
+- [Condition Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAkeVlhQLsIajJRaMIKjBSjMBygjul/TH-zxIY1oj/UiTBEpEoSRQuCBPeQCi9wrBEfVA-e)
 
 ## Boon Responsability
 
