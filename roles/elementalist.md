@@ -151,4 +151,6 @@ Your job here is to keep the eye stuned using the `Light orb` skill 2: `Flare`. 
 
 The kiter job on Dhuum is to tap the messengers and take them for a walk away from the group. During the pre-event, be aware of affliction bombs as they might kill you if you are low health. Additionaly, you are in charge of [green 2](/mechanics/dhuum-green.md). Someone else will backup your first green.
 
-[Example TODO]() - [Druid Kite G2 Build](http://gw2skills.net/editor/?POxEYiNssCWCThNyIxyVyr1VyriD-zRJYqR9fZUdVleq67BJU+bp9NL-e)
+> You can take some toughness to make this more reliable.
+
+[Example](https://youtu.be/ytsuUhgpx6A) - [Druid Kite G2 Build](http://gw2skills.net/editor/?POxEYiNssCWCThNyIxyVyr1VyriD-zRJYqR9fZUdVleq67BJU+bp9NL-e)
