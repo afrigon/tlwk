@@ -26,8 +26,8 @@ are detailed in the class guides.
 | -------------  | ------ |
 | Mesmer         | >2173  | 
 | Heal Firebrand | 2173   |
-| Renegade       | 1720   |
-| Guardian       | 1010   |
-| Elementalist   | 1005   |
+| Elementalist   | 1677   |
+| Renegade       | 1675   |
+| Guardian       | 1000   |
 | Warrior        | 1000   |
 | Necromancer    | 1000   |

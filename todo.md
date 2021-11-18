@@ -1,18 +1,17 @@
 ## Elementalist
 
 - [ ] Largos kite
-- [ ] Matriarch Tank
+- [x] Matriarch Tank
 
 ### Druid 
 
-- [ ] SH Pusher
-- [ ] Eyes Stun
+- [x] SH Pusher
+- [x] Eyes Stun
 - [ ] Dhuum Kite G2
 
 ## Guardian
 
-- [ ] Eyes throwing
-- [ ] CA Shield Collection
+- [x] CA Shield Collection
 
 ## Necromancer
 
@@ -26,10 +25,9 @@
 ## Mesmer
 
 - [x] Spirit Run Portal
-- [ ] Slothasor Distort
-- [ ] Escord PoV
+- [x] Slothasor Distort
+- [x] Escord PoV
 - [ ] Xera Tanking
-- [ ] Eyes Throwing ?
 - [ ] Dhuum Tanking
 - [ ] CA Sword Collection
 - [ ] Quadim Tanking (Hydra, Destroyer, Wyvern)

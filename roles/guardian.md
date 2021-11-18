@@ -1,6 +1,6 @@
 # Guardian
 
-- [Condition Quickness Firebrand Build](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt90B-zRJYmR3/ZkgKoDJgYPIjQ6fE7g4DgN1AL8cWB-e) to be played in most places
+- [Condition Quickness Firebrand Build](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt90B-zRJYmR3/ZkgKoDJgYPIiQ6fE7gDgtwzZF-e)) to be played in most places
 - [Heal Tank Firebrand Build](http://gw2skills.net/editor/?PWxAk6ZlRweYaMMmJmyWrPdA-zRJYjRHfZUdKkeF47BJU2Dvl23sA-e) for Wing 5 and Twin Largos
 
 ## Key Skills
@@ -86,7 +86,7 @@ If the Mesmer fails to reflect the `Blood Shards`, wait for Matthias to start sh
 
 During the orb collection phase (when an arm dies), the guardian player is in charge of collecting **all** 15 shield orbs to make sure none of them reach the boss; You can help yourself with your `Tome of Courage` for self resistance, swiftness and stability. You must then use your 10 stacks of `Conjured Shield` to protect the group from the next junk torrent. 
 
-[Example TODO]()
+[Example](https://youtu.be/P3-64DF2R4s)
 
 ### Qadim The Peerless Third Lämp
 

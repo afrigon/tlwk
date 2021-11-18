@@ -1,6 +1,6 @@
 # Elementalist
 
-[Heal Tempest Build](http://gw2skills.net/editor/?PGhEgEWGBrh5gVil2kerD-zRRYQhUDUNaqq+KjqLg0TAfPIiyGI/NVALtvZB-ekk)
+[Heal Tempest Build](http://gw2skills.net/editor/?PGhEgEWGBrh5wWYlYpNp36A-zRRYjhoaXNaq1IKjqLg0TAfPICQ6fKbgDgt0+mF-e)
 
 ## Key Skills
 
@@ -86,6 +86,12 @@ This is one of your strongest skill, it can save the group from a wipe in many c
 - `Flash-Freeze`
 - `Frozen Burst` / Water Dagger 3
 
+## Alternate Tank
+
+Since the build uses minstrel gear,
+the elementalist player is the alternate tank for emergency situations
+(eg. main tank dies or disconnect).
+
 ## Special Roles
 
 ### Escort
@@ -123,7 +129,7 @@ You should stay further out to kite the steal attack from Kenut. Dodge the hit t
 - Avoid the `Slash` by dodging the sideways punch (kockback) and being inside the hitbox to avoid the downward punch.
 - Follow and continue tanking if the wyvern moves.
 
-[Example TODO]()
+[Example](https://youtu.be/j4cgU3gGjNs)
 
 ## Wing 5
 
@@ -133,13 +139,13 @@ The elementalist will swap to ranger for all of Hall of Chains.
 
 Your job on this encounter is to push the tormented dead outside the arena. They will be following the tank currently **not** fixated. Position yourself in a way that allows you you to push them out before they reach the group using `Glyph of Tides` and `Point-Blank Shot`.
 
-[Example TODO]() - [Druid Pusher Build](http://gw2skills.net/editor/?POhAYNlVwSYKsGGJO2TetsSOWcA-zRJYqR1fhkaEUdRleq67BJU+bp9NL-e)
+[Example](https://youtu.be/eke6J8yA0FE) - [Druid Pusher Build](http://gw2skills.net/editor/?POhAYNlVwSYKsGGJO2TetsSOWcA-zRJYqR1fhkaEUdRleq67BJU+bp9NL-e)
 
 ### Eye of Judgment / Fate
 
 Your job here is to keep the eye stuned using the `Light orb` skill 2: `Flare`. Keep an eye on the stun duration and use a light to refresh it before it runs out. Use a sigil of paralization and `Moment of Clarity` to extend the duration of the stun.
 
-[Example TODO]() - [Druid Stun Build](http://gw2skills.net/editor/?POxEY6MsMBWCThhwIxxfyrZNi4A-zRJYqR9fh0SBUdUleq67BJU28vl23sA-e)
+[Example](https://youtu.be/wTn-TJbNWWw?t=336) - [Druid Stun Build](http://gw2skills.net/editor/?POxEY6MsMBWCThhwIxxfyrZNi4A-zRJYqR9fh0SBUdUleq67BJU28vl23sA-e)
 
 ### Dhuum Kite Green 2
 

@@ -1,6 +1,6 @@
 # Revenant
 
-- [Condition Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAkeVlhQLsIajJRaMIKjBSjMBygjul/TH-zxIY1oj/UiTEEpEoSFQuCBPeQCi9wbZrvK-e)
+[Condition Alacrity Renegade Build](http://gw2skills.net/editor/?PmxAkeVlhQLsIajJRaMIKjBSjMBygjul/TH-zxIY1oj/UiTBEpEoSRQuCBPeQCi9wrBEfVA-e)
 
 ## Boon Responsability
 
@@ -13,14 +13,6 @@ The revenant player brings alacrity for
 
 - `Temporal Rift` / Axe 5 (150)
 - `Scorchrazor` / Shortbow 5 (200)
-- `Darkrazor's Daring` (600)
+- `Darkrazor's Daring` (up to 6 hits of 100)
 - `Call to Anguish` (150)
 - `Surge of the Mist` / Staff 5 (up to 9 hits of 150)
-
-## Special Roles
-
-### Alternate Tank
-
-Since the build uses celestial gear,
-the revenant player is the alternate tank for emergency situations
-(eg. main tank dies or disconnect).

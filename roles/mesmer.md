@@ -72,11 +72,19 @@ One of your most powerful ability is `Signet of Inspiration` to extend all boons
 
 ### Escort
 
-You job is to risk your life and go through the cave to portal people up the tower.
+You job is to risk your life and go through the cave to portal people up the tower. You can optionaly use the mirage traitline to leap in the cave.
 
 > Don't fly in front of the tower or you will get kocked and die of falling damage.
 
-[Example TODO]() - [Tower Chronomancer Build](http://gw2skills.net/editor/?PixAw27lVwCZasLGKeuT5tWA-zRJYjRL/Z0iUIdFgGPIBwW4ts74G-e)
+[Example](https://youtu.be/d1Ryy7oBgno) - [Tower Chronomancer Build](http://gw2skills.net/editor/?PixAw27lVwCZasLGKeuT5tWA-zRJYjRL/Z0iUIdFgGPIBwW4ts74G-e)
+
+#### Solo Capture
+
+If you feel confident, you can swap the shield for a greatsword to capture the towers by yourself. Go up in stealth and use `Into the Void` / Focus 4 to bring all the adds together, then use `Illusionary Wave` / Greatsword 5 to push them on the side where there is the most space for them to be outside the circle.
+
+> If a minion spawns, you will have to kill it before you can push them out or portal your group up.
+
+[Example](https://youtu.be/tuTVtLoSq5E)
 
 ### Twisted Castle
 
@@ -86,7 +94,7 @@ Make a portal to get to the lower section of `Twisted Castle` to make sure your 
 
 ### Quadim
 
-For the burn phases, you will be responsible to port the entire group from quadim to the resolution pyre.
+For the burn phases, you will be responsible to port the entire group from quadim to the resolution pyre and back.
 
 [Example TODO]()
 
@@ -106,11 +114,11 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 ### Keep Construct
 
 - Kite the boss towards the left wall near the statue that is spawning a spirit to make sure we can quickly cleave it.
-- Do no stay in the hitbox when he does the `Phantasmal Blade` attack (Pink portal-like AoE)
+- Do not stay in the hitbox when it does the `Phantasmal Blade` attack (Pink portal-like AoE)
 
 ### Xera
 
-- The only relevent attack from this boss is the `Blurred Frenzy`. Make sure you save a block for it and never let xera face the group or she will one-shot dps players.
+- The only relevent attack from this boss is the `Blurred Frenzy`. Make sure you save a block for it and never let Xera face the group or she will one-shot dps players.
 - Don't let xera walk into any of the shard's massive AoE. Her condition will start turning to boons.
 - Make sure the shards are cleared before moving to an edge.
 - The idea is to position xera in a way that will not be in a `Gravity Well`, shards or in the center while the laser attack is happening.
@@ -122,7 +130,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 ### Deimos
 
 - **Always** take the protective bubble unless the green is taking the entire space (you will never be the one getting oils)
-- Use `Well of precognition` if you must facetank the `Mind Crush` attack
+- Use `Well of precognition` or `Echo of Memory` if you must facetank the `Mind Crush` attack
 - Position yourself to not get knocked off the platform if you get hit (use geometry)
 - Use a signet to share an aegis before the pizza attack. Dodge it if you are unsure about your distortion timing
 - Move away from oils. Give some room for the dps players to do their jobs
@@ -183,12 +191,12 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 
 [Example TODO]()
 
-#### Wyvern
+#### Wyvern Patriarch
 
 - Starts when quadim reaches 33% health
 - Walk out of the flame breath
 - Sidestep the `Tail Swipe`
-- Avoid the `Slash` by dodging the sideways punch (kockback) and being inside the hitbox to avoid the downward punch.
+- Avoid the `Slash` by dodging the sideways punch (kockback) and by being inside the hitbox to avoid the downward punch.
 - Follow and continue tanking if the wyvern moves.
 
 [Example TODO]()
@@ -202,7 +210,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 ### Quadim the Peerless
 
 - Use the Special Action Key to link to quadim and be the tank
-- Quadim will do a cone attack followed by barrage of attacks after a few seconds 3 times in a row followed by a road attack. Make sure you have a block ready for all 3 (Ex: `Signet of Inspiration` / `Signet of the Ether` > `Blurred Frenzy`, `Echo of Memory`, `Deja Vu`) 
+- Quadim will do a cone attack followed by a barrage of attacks after a few seconds 3 times in a row followed by a road attack. Make sure you have a block ready for all 3 (Ex: `Signet of Inspiration` / `Signet of the Ether` > `Blurred Frenzy`, `Echo of Memory`, `Deja Vu`) 
 - Tank on the right side of the pylon so the kiter has safe space on the left side
 - Position yourself on the left side between the pylon and the orb during the third barrage of attacks to drop the road (you can stack the roads on top of each other during `Deja Vu`)
 - At 20%, make sure you are the first player in the circle to get fixation. You can stay close to quadim and dodge the kockback
@@ -215,7 +223,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 
 You can use signets to gain distortion and jump inside slothasor during the shake to destroy most of the projectiles. This will reduce the fatality of this attack.
 
-[Example TODO]()
+[Example](https://youtu.be/YE4VVVMVOP4)
 
 ### Bandit Trio
 
