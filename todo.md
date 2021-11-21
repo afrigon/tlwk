@@ -7,7 +7,7 @@
 
 - [x] SH Pusher
 - [x] Eyes Stun
-- [ ] Dhuum Kite G2
+- [x] Dhuum Kite G2
 
 ## Guardian
 
@@ -28,8 +28,8 @@
 - [x] Slothasor Distort
 - [x] Escord PoV
 - [ ] Xera Tanking
-- [ ] Dhuum Tanking
-- [ ] CA Sword Collection
+- [x] Dhuum Tanking
+- [x] CA Sword Collection
 - [ ] Quadim Tanking (Hydra, Destroyer, Wyvern)
 - [ ] Quadim Resolution Pyre Portal
 - [ ] Quadim Jumping Puzzle Portal

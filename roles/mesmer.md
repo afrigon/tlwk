@@ -250,4 +250,6 @@ Make sure to take the first [green 2](/mechanics/dhuum-green.md) on circle to fr
 
 During the orb collection phase (when an arm dies), the mesmer player is in charge of collecting **all** 15 sword orbs. When you reach 5 stack of swords, position yourself to pick up the next one and cast them on the boss. (this will lock you in place for a second) Keep the 10 remaining stack to use on the arm if the boss is close to phase. (50% and 25%) Otherwise, use the 10 stack when the first 5 run out. The sword orbs start from the left when facing the boss.
 
-[Example TODO]()
+> Make sure you do not have a shield stack or you will not be able to pickup swords.
+
+[Example](https://youtu.be/fAq7q2-1yBo)
