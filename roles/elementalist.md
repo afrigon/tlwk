@@ -117,7 +117,7 @@ Make sure you keep Saul healthy.
 
 You should stay further out to kite the steal attack from Kenut. Dodge the hit to avoid getting your boons stolen.
 
-[Example TODO]()
+[Example](https://youtu.be/4YeOZs4RUuc)
 
 ### Quadim Matriarch Tank
 

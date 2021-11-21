@@ -1,6 +1,6 @@
 ## Elementalist
 
-- [ ] Largos kite
+- [x] Largos kite
 - [x] Matriarch Tank
 
 ### Druid 
