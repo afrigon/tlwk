@@ -57,6 +57,7 @@ One of your most powerful ability is `Signet of Inspiration` to extend all boons
 - `Blurred Frenzy` / Sword 2
 - `Illusionary Counter` / Scepter 2
 - Any Signet ability will give you 1s of distortion
+- It's also legal to use a regular dodge roll
 
 > You can abuse `Signet of the Ether` to restore your shield blocks.
 
@@ -161,7 +162,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - When soulsplit happens, tank in the center until the dip if there is space
 - Immediately bring the boss to the enforcer if one spawns. (at the start or if a big orb is missed)
 
-[Example TODO]()
+[Example](https://youtu.be/gh6ohsvXezw)
 
 ### Twin Largos
 
