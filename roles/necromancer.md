@@ -1,6 +1,6 @@
 # Necromancer
 
-- [Condition Scourge Build](http://gw2skills.net/editor/?PSxEs8NssBGImGjEL2r6nJA-zRJYmR7fh0SIkbB0RC49BJI2CvGQMtB-e)
+- [Condition Scourge Build](http://gw2skills.net/editor/?PSxEs8NssBGImGjEL2r6XJA-zRJYmR7fh0SIkbB0RC49BJE2CvGQMtB-e)
 - [Video Guide](https://youtu.be/auDt9d45EFQ)
 
 ## Key Skills
