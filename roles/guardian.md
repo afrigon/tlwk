@@ -40,7 +40,7 @@ and `Mantra of Liberation` (with `Stalwart Speed`).
 - Sabir's Voltaic Wisp's `Electrospark` (small orange circles)
 - Qadim The Peerless' `Force of Retaliation` (shockwave)
 
-> Remove stability from your build as it will get corrupted into fear by the evolved slublings at Slothasor and the scythes on Soulless Horror
+> Careful, stability will get corrupted into fear by the evolved slublings at Slothasor and the scythes on Soulless Horror.
 
 ### Aegis
 
