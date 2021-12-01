@@ -136,6 +136,8 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - Use a signet to share an aegis before the pizza attack. Dodge it if you are unsure about your distortion timing
 - Move away from oils. Give some room for the dps players to do their jobs
 
+> Dark Saul will be chasing the player with highest precision, you can swap all your gear to Commander and get aggro.
+
 ### Soulless Horror
 
 - Alternate tanking with the other tank; as a rule of thumb, take fixate as soon as your stacks of `Necrosis` wear off (30s after losing fix)
