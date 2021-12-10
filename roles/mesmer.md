@@ -124,7 +124,7 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - Make sure the shards are cleared before moving to an edge.
 - The idea is to position xera in a way that will not be in a `Gravity Well`, shards or in the center while the laser attack is happening.
 
-[Example TODO]()
+[Example](https://youtu.be/7gY746zYcBc)
 
 ![xera_tanking_guide.pdf](/images/xera.png "Xera Tank Positioning")
 
