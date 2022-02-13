@@ -30,9 +30,9 @@
 ### Quadim Kite
 
 ```
-Flame Slash` x2 > `Flame Wave` > `Flame Slash` > `Fire Dance
-Flame Slash` x2 > `Flame Wave` > `Flame Slash` > `Fire Dance
-Flame Slash` x4 > `Shattering Impact
+Flame Slash x2 > Flame Wave > Flame Slash > Fire Dance
+Flame Slash x2 > Flame Wave > Flame Slash > Fire Dance
+Flame Slash x4 > Shattering Impact
 ```
 
 [Example]()
