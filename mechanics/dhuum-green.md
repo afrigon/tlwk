@@ -14,6 +14,6 @@
 
 ## How to do a green
 
-Collect five orbs including the bigger enforcer orb spawing two seals clockwise of yours. 
+Collect five orbs including the bigger enforcer orb spawning two seals clockwise of yours. 
 
 [Example](https://youtu.be/0yq9-lnkOYg)
