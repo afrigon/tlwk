@@ -21,8 +21,9 @@ are detailed in the class guides.
 
 | Role           | Amount |
 | -------------  | ------ |
+| Tank Mesmer    | 1581   |
 | Heal Mechanist | 1512   | 
-| Mesmer         | xxxx   |
-| Hand Kite      | yyyy   |
+| Boon Mesmer    | 1010   |
+| Hand Kite      | 1000   |
 | others         | 1000   |
 
