@@ -25,7 +25,7 @@ and `Mantra of Liberation` (with `Stalwart Speed`).
 
 ### Stability
 
-`Stand Your Ground!` will negate the crowd control from the following attacks for your whole squad.
+`Stand Your Ground!` will negate the crowd control from the following attacks for your party.
 
 - Gorseval's `Spectral Impact` (slam)
 - Slothasor's post-`Narcolepsy` fear (when defiance bar is broken)
