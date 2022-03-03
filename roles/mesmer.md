@@ -1,7 +1,7 @@
 # Mesmer
 
 - [Power Boon Chronomancer Build](http://gw2skills.net/editor/?PixAw2FlVw2YLYn4Ir01cB-zxQYhojbcHEXZUbKURF45BRM2D3/YSAsF9nBA-e) (1010 toughness)
-- [Condition Boon Chronomancer Build](http://gw2skills.net/editor/?PixAs+rlVw2YLYn4Ir01cB-zRRYkBLHtvyI5CojUQ7DSQsFeNgYaD-e) (1581 toughness)
+- [Condition Boon Chronomancer Build](http://gw2skills.net/editor/?PixAs+rlVwWYeME2JWOX/NXA-zRRYkBLHtvyI5CojUQ7DSQsFeNgYaD-e) (1581 toughness)
 
 ## Key Skills
 
@@ -164,7 +164,6 @@ You will be the off tank, when a second tank is required or when the main tank i
 
 ### Twin Largos
 
-- You're responsible for alacrity uptime on right side (Kenut)
 - Drag the boss away from the tornados
 - Face the boss away from the group
 
@@ -189,6 +188,18 @@ You will be the off tank, when a second tank is required or when the main tank i
 - If an attack is impossible to sidestep use a block or an evade.
 
 [Example TODO]()
+
+### Wyvern Matriarch
+
+- Starts when quadim reaches 33% health
+- Stay alive until Zommorros takes over
+- Walk out of the flame breath
+- Walk out of the `Wing Buffet` and make sure the wyvern is facing away from the group
+- Sidestep the `Tail Swipe`
+- Avoid the `Slash` by dodging the sideways punch (kockback) and being inside the hitbox to avoid the downward punch.
+- Follow and continue tanking if the wyvern moves.
+
+[Example](https://youtu.be/j4cgU3gGjNs)
 
 #### Wyvern Patriarch
 
@@ -218,12 +229,6 @@ You will be the off tank, when a second tank is required or when the main tank i
 
 ## Special Roles
 
-### Slothasor
-
-You can use signets to gain distortion and jump inside slothasor during the shake to destroy most of the projectiles. This will reduce the fatality of this attack.
-
-[Example](https://youtu.be/YE4VVVMVOP4)
-
 ### Bandit Trio
 
 Whenever you see the mortar warning message, use the launchpad and cc the adds preparing the mortar strike after you see a breakbar appear. Use `Into the Void` traited with `Delayed Reaction` to break them all at once.
@@ -231,10 +236,6 @@ Whenever you see the mortar warning message, use the launchpad and cc the adds p
 ### Mathias Gabrel
 
 When Matthias gets a protective shield, use `Feedback` to reflect the shards back to break his shield.
-
-### Keep Construct
-
-Make sure you bring a greatsword or that you have a plan to push the orb through the rifts. Try and get 3 rifts and adjust the next phase according to the squad's damage. Push an extra rift for the last phase.
 
 ### Eye of Judgment / Fate
 
