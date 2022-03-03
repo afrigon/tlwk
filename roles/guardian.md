@@ -1,7 +1,7 @@
 # Guardian
 
-- [Condition Quickness Firebrand Build](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt90B-zRJYmR3/ZkgKoDJgYPIiQ6fE7gDgtwzZF-e)) to be played in most places
-- [Heal Tank Firebrand Build](http://gw2skills.net/editor/?PWxAk6ZlRweYaMMmJmyWrPdA-zRJYjRHfZUdKkeF47BJU2Dvl23sA-e) for Wing 5 and Twin Largos
+- [Condition Quickness Firebrand Build](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt98B-zRJYyRH/ZkgKoDJgYPIiQ6fE7gDgtwz0G-e)) to be played in most places
+- [Heal Tank Firebrand Build](http://gw2skills.net/editor/?PWxAk6ZlRweYaMMmJmyWrPdA-zRJYjRHfZUdKkeF47BJU2Dvl23sA-e)
 
 ## Key Skills
 
