@@ -1,6 +1,6 @@
 # Guardian
 
-- [Condition Quickness Firebrand Build](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt98B-zRJYyRH/ZkgKoDJgYPIiQ6fE7gDgtwz0G-e)) to be played in most places
+- [Condition Quickness Firebrand Build](http://gw2skills.net/editor/?PWxAc+tlRweYdYmYRbt9sB-zRJYyRH/ZkgKoDJgYPIiQ6fE7gDgtwz0G-e)) to be played in most places
 - [Heal Tank Firebrand Build](http://gw2skills.net/editor/?PWxAk6ZlRweYaMMmJmyWrPdA-zRJYjRHfZUdKkeF47BJU2Dvl23sA-e)
 
 ## Key Skills
