@@ -34,6 +34,9 @@ Be ready to throw to players handling cannons.
 
 [Example](https://youtu.be/pJPLghfyhyA)
 
+### Eye of Judgment / Fate
+
+Your job here is to keep the eye stuned using the `Light orb` skill 2: `Flare`. Keep an eye on the stun duration and use a light to refresh it before it runs out. Use a sigil of paralization to extend the duration of the stun.
 
 ### Cardinal Adina
 
