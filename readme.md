@@ -2,32 +2,27 @@
 
 This is a generic composition
 to be played on most encounters
-without relogs or food swaps.
-It relies on a single healer,
-an invincible tank,
-and incredible barrier output from scourges.
+without relogs.
 
 > Specific changes for each boss
 are detailed in the class guides.
 
 ## Squad Layout
 
-| Subgroup 1                                                | Subgroup 2                                          |
-| --------------------------------------------------------- | --------------------------------------------------- |
-| [Condition Quickness Firebrand](/roles/guardian.md)       | [Heal Tempest](/roles/elementalist.md)              |
-| [Power/Condition Alacrity Renegade](/roles/revenant.md)   | [Boon Chronomancer](/roles/mesmer.md)               |
-| [Condition Scourge](/roles/necromancer.md)                | [Power/Condition Banner Warrior](/roles/warrior.md) |
-| [Condition Scourge](/roles/necromancer.md)                | [Condition Scourge](/roles/necromancer.md)          |
-| [Condition Scourge](/roles/necromancer.md)                | [Condition Scourge](/roles/necromancer.md)          |
+| Subgroup 1                                 | Subgroup 2                                 |
+| ------------------------------------------ | ------------------------------------------ |
+| [Heal Druid](/roles/ranger.md)             | [Heal Mechanist](/roles/engineer.md)       |
+| [Quickness Chronomancer](/roles/mesmer.md) | [Quickness Firebrand](/roles/guardian.md)  |
+| [Alacrity Renegade](/roles/revanant.md)    | [Condition Scourge](/roles/necromancer.md) |
+| [Banner Warrior](/roles/warrior.md)        | [Power Catalyst](/roles/elementalist.md)   |
+| [Thief](/roles/thief.md)                   | [Thief](/roles/thief.md)                   |
 
 ## Toughness Check
 
-| Role           | Amount       |
-| -------------  | ------------ |
-| Mesmer         | >2173        | 
-| Heal Firebrand | 2173         |
-| Elementalist   | 1677         |
-| Renegade       | [1000, 1675] |
-| Guardian       | 1000         |
-| Warrior        | 1000         |
-| Necromancer    | 1000         |
+| Role           | Amount |
+| -------------  | ------ |
+| Heal Mechanist | 1512   | 
+| Mesmer         | xxxx   |
+| Hand Kite      | yyyy   |
+| others         | 1000   |
+
