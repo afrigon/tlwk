@@ -92,6 +92,58 @@ You will be the main tank. Make sure you know how to tank all of the bosses.
 ### Eater of Souls
 
 - Bring the boss on the marking that is lit up green at all times
+- The attacks from the boss hurt quite a bit, make sure you block and evade most them
+
+### Dhuum
+
+- The idea is to position dhuum close to the next green
+- Make sure you never let dhuum cleave someone taking a green or a downstate
+- When soulsplit happens, tank in the center until the dip if there is space
+- Immediately bring the boss to the enforcer if one spawns. (at the start or if a big orb is missed)
+
+[Example](https://youtu.be/gh6ohsvXezw)
+
+### Quadim
+
+- Quadim and all the mini-bosses will fixate the closest player.
+- Quadim will port player from the mini-bosses hitbox to him whenever he destroys a plateform (learn the timings or have the kiter warn you)
+
+#### Hydra
+
+- Starts at the beginning of the fight
+- Attack pattern: `Bite` > `Bite` > `Flame Breath` > `Bite` > `Bite` > `Breakbar` > `Bite` > `Bite` > `Jump`
+- Sidestep or block all the attacks (they apply chill, bleed, poison and make your life miserable)
+- The jump will go in the direction the hydra is facing. You can move during the last bite attack to decide where the hydra moves to.
+
+[Example TODO]()
+
+#### Destroyer
+
+- Starts when quadim reaches 66% health
+- Sidestep the attacks.
+- If an attack is impossible to sidestep use a block or an evade.
+
+[Example TODO]()
+
+#### Wyvern Patriarch
+
+- Starts when quadim reaches 33% health
+- Walk out of the flame breath
+- Sidestep the `Tail Swipe`
+- Avoid the `Slash` by dodging the sideways punch (kockback) and by being inside the hitbox to avoid the downward punch.
+- Follow and continue tanking if the wyvern moves.
+
+[Example TODO]()
+
+### Cardinal Adina
+
+- Face the boss away from the group
+- Watch out for the cone attack, it will knock you back. Use a block or bring stability from the Chaos traitline
+- At 75%, 50% and 25% the stalagmite will explode and do massive damage 1 tile around them. Be far enough to avoid this damage
+
+### Quadim the Peerless
+
+The mesmer player will tank on this fight because it is a lot simpler for them.
 
 ## Special Roles
 

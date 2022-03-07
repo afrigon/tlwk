@@ -191,6 +191,8 @@ You will be the off tank, when a second tank is required or when the main tank i
 
 ### Wyvern Matriarch
 
+You are in charge to keep the Wyvern Matriarch busy while the group is handling the Wyvern Patriarch.
+
 - Starts when quadim reaches 33% health
 - Stay alive until Zommorros takes over
 - Walk out of the flame breath
@@ -201,16 +203,6 @@ You will be the off tank, when a second tank is required or when the main tank i
 
 [Example](https://youtu.be/j4cgU3gGjNs)
 
-#### Wyvern Patriarch
-
-- Starts when quadim reaches 33% health
-- Walk out of the flame breath
-- Sidestep the `Tail Swipe`
-- Avoid the `Slash` by dodging the sideways punch (kockback) and by being inside the hitbox to avoid the downward punch.
-- Follow and continue tanking if the wyvern moves.
-
-[Example TODO]()
-
 ### Cardinal Adina
 
 - Face the boss away from the group
@@ -218,6 +210,8 @@ You will be the off tank, when a second tank is required or when the main tank i
 - At 75%, 50% and 25% the stalagmite will explode and do massive damage 1 tile around them. Be far enough to avoid this damage
 
 ### Quadim the Peerless
+
+You will be main tank on this fight because it's free for you.
 
 - Use the Special Action Key to link to quadim and be the tank
 - Quadim will do a cone attack followed by a barrage of attacks after a few seconds 3 times in a row followed by a road attack. Make sure you have a block ready for all 3 (Ex: `Signet of Inspiration` / `Signet of the Ether` > `Blurred Frenzy`, `Echo of Memory`, `Deja Vu`) 
