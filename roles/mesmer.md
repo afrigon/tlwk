@@ -1,7 +1,7 @@
 # Mesmer
 
-For fights with toughness tanking mechanic, you should run a build similar to this one to make sure you will never die and have the most toughness.
-[Boon Chronomancer Build](http://gw2skills.net/editor/?PixAw27lVA7gdin6UerF-zRJYjRL/Z0iUIdFgGPIBwW4ts74G-e)
+- [Power Boon Chronomancer Build](http://gw2skills.net/editor/?PixAw2FlVw2YLYn4Ir01cB-zxQYhojbcHEXZUbKURF45BRM2D3/YSAsF9nBA-e) (1010 toughness)
+- [Condition Boon Chronomancer Build](http://gw2skills.net/editor/?PixAs+rlVwWYeME2JWOX/NXA-zRRYkBLHtvyI5CojUQ7DSQsFeNgYaD-e) (1581 toughness)
 
 ## Key Skills
 
@@ -28,15 +28,15 @@ For fights with toughness tanking mechanic, you should run a build similar to th
 
 The mesmer player brings quickness
 for their subgroup with `Seize the moment` and `Well of Action`.
-Casting `Time Warp` as soon as the fight start to apply quickness to the entire squad is a good idea.
+Casting `Time Warp` as soon as the fight start to apply quickness to the party is a good idea.
 
 ### Aegis
 
-You have access to aegis for your subgroup through the synergy between `Inpiring Distortion` and `Blurred inscription` whenever you use a signet. If more aegis is required, you can bring `Well of Precognition`.
+You can bring `Well of Precognition` when aegis is required. You have access to more aegis for your subgroup through the synergy between `Inpiring Distortion` and `Blurred inscription` whenever you use a signet if necessary.
 
-### Extension
+### Stability
 
-One of your most powerful ability is `Signet of Inspiration` to extend all boons currently applied to everyone in the squad for 3 seconds.
+You have access to stability with `Well of Precognition` and `Mantra of Concentration`.
 
 ## Crowd Control
 
@@ -56,7 +56,7 @@ One of your most powerful ability is `Signet of Inspiration` to extend all boons
 - `Illusionary Riposte` / Sword 4
 - `Blurred Frenzy` / Sword 2
 - `Illusionary Counter` / Scepter 2
-- Any Signet ability will give you 1s of distortion
+- Any Signet ability will give you 1s of distortion when using the ispiration traitline
 - It's also legal to use a regular dodge roll
 
 > You can abuse `Signet of the Ether` to restore your shield blocks.
@@ -95,7 +95,7 @@ Make a portal to get to the lower section of `Twisted Castle` to make sure your 
 
 ### Quadim
 
-For the burn phases, you will be responsible to port the entire group from quadim to the resolution pyre and back.
+For the burn phases, you will be responsible to port your party to the protection pyre.
 
 [Example TODO]()
 
@@ -105,12 +105,12 @@ Another use for the portal is to skip the jumping puzzle after the wyvern phase.
 
 ## Tanking
 
-The mesmer player is the main tank for all encounters. This is the reason why the default build has so much toughness. The job of the tank is to never die and keep the boss in place.
+You will be the off tank, when a second tank is required or when the main tank inevitably feeds. Make sure you know how to tank all of the bosses.
 
 ### Vale Guardian
 
 - Never get ported (dodge into the wall, use `Blurred Frenzy` or walk out of the blues)
-- Use distortion to avoid the green damage
+- Use distortion to avoid the green damage (if you are using inspiration)
 
 ### Keep Construct
 
@@ -168,7 +168,6 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 
 ### Twin Largos
 
-- You're responsible for alacrity uptime on right side (Kenut)
 - Drag the boss away from the tornados
 - Face the boss away from the group
 
@@ -194,15 +193,19 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 
 [Example TODO]()
 
-#### Wyvern Patriarch
+### Wyvern Matriarch
+
+You are in charge to keep the Wyvern Matriarch busy while the group is handling the Wyvern Patriarch.
 
 - Starts when quadim reaches 33% health
+- Stay alive until Zommorros takes over
 - Walk out of the flame breath
+- Walk out of the `Wing Buffet` and make sure the wyvern is facing away from the group
 - Sidestep the `Tail Swipe`
-- Avoid the `Slash` by dodging the sideways punch (kockback) and by being inside the hitbox to avoid the downward punch.
+- Avoid the `Slash` by dodging the sideways punch (kockback) and being inside the hitbox to avoid the downward punch.
 - Follow and continue tanking if the wyvern moves.
 
-[Example TODO]()
+[Example](https://youtu.be/j4cgU3gGjNs)
 
 ### Cardinal Adina
 
@@ -211,6 +214,8 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 - At 75%, 50% and 25% the stalagmite will explode and do massive damage 1 tile around them. Be far enough to avoid this damage
 
 ### Quadim the Peerless
+
+You will be main tank on this fight because it's free for you. Get as much toughness as you need and a shield.
 
 - Use the Special Action Key to link to quadim and be the tank
 - Quadim will do a cone attack followed by a barrage of attacks after a few seconds 3 times in a row followed by a road attack. Make sure you have a block ready for all 3 (Ex: `Signet of Inspiration` / `Signet of the Ether` > `Blurred Frenzy`, `Echo of Memory`, `Deja Vu`) 
@@ -222,12 +227,6 @@ The mesmer player is the main tank for all encounters. This is the reason why th
 
 ## Special Roles
 
-### Slothasor
-
-You can use signets to gain distortion and jump inside slothasor during the shake to destroy most of the projectiles. This will reduce the fatality of this attack.
-
-[Example](https://youtu.be/YE4VVVMVOP4)
-
 ### Bandit Trio
 
 Whenever you see the mortar warning message, use the launchpad and cc the adds preparing the mortar strike after you see a breakbar appear. Use `Into the Void` traited with `Delayed Reaction` to break them all at once.
@@ -235,10 +234,6 @@ Whenever you see the mortar warning message, use the launchpad and cc the adds p
 ### Mathias Gabrel
 
 When Matthias gets a protective shield, use `Feedback` to reflect the shards back to break his shield.
-
-### Keep Construct
-
-Make sure you bring a greatsword or that you have a plan to push the orb through the rifts. Try and get 3 rifts and adjust the next phase according to the squad's damage. Push an extra rift for the last phase.
 
 ### Eye of Judgment / Fate
 

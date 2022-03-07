@@ -56,10 +56,6 @@ Use `Shield Stance` / Shield 5 to block the `Mind Crush` and chain it with your 
 
 [Example](https://youtu.be/-6bmv44-olc) - [Spellbreaker Handkite Build](http://gw2skills.net/editor/?PKhAk7lNwCZdMOGJeaX2PdA-zRZYQhUzfMUVBqRJcGpqASXIY3DSosEeL9PsB-e)
 
-### Eye of Judgment / Fate
-
-Your job here is to keep the eye stuned using the `Light orb` skill 2: `Flare`. Keep an eye on the stun duration and use a light to refresh it before it runs out. Use a sigil of paralization to extend the duration of the stun.
-
 ### Dhuum Green 1
 
 You're in charge of [green 1](/mechanics/dhuum-green.md). Make sure to use `Scorched Earth` on the star reaper to clear out spiders.
