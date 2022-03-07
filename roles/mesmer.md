@@ -215,7 +215,7 @@ You are in charge to keep the Wyvern Matriarch busy while the group is handling 
 
 ### Quadim the Peerless
 
-You will be main tank on this fight because it's free for you.
+You will be main tank on this fight because it's free for you. Get as much toughness as you need and a shield.
 
 - Use the Special Action Key to link to quadim and be the tank
 - Quadim will do a cone attack followed by a barrage of attacks after a few seconds 3 times in a row followed by a road attack. Make sure you have a block ready for all 3 (Ex: `Signet of Inspiration` / `Signet of the Ether` > `Blurred Frenzy`, `Echo of Memory`, `Deja Vu`) 
