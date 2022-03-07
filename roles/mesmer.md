@@ -34,6 +34,10 @@ Casting `Time Warp` as soon as the fight start to apply quickness to the party i
 
 You can bring `Well of Precognition` when aegis is required. You have access to more aegis for your subgroup through the synergy between `Inpiring Distortion` and `Blurred inscription` whenever you use a signet if necessary.
 
+### Stability
+
+You have access to stability with `Well of Precognition` and `Mantra of Concentration`.
+
 ## Crowd Control
 
 - `Into the Void` / Focus 4 (150)
