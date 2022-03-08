@@ -1,7 +1,7 @@
 # Thief
 
-[Power Daredevil Build](http://gw2skills.net/editor/?PaxAYprlFwaYYsL2JO6LbtcA-zRIYRUzXItEC1mAVUB2eQCjxwbR/ZA-e)
-[Condition Daredevil Build](http://gw2skills.net/editor/?PmxAkeVlhQLsIajJRaMIKjBSjMBygjul/TH-zxIY1oj/UiTEEpEoSFQuCBPeQCi9wbZrvK-e)
+- [Power Daredevil Build](http://gw2skills.net/editor/?PaxAYprlFwaYYsL2JO6LbtcA-zRIYRUzXItEC1mAVUB2eQCjxwbR/ZA-e)
+- [Condition Daredevil Build](http://gw2skills.net/editor/?PahAgjlRwQYHMK2JO2W1tMA-zRJYmRJfZEXIEZB4zBJIWCvGQMtB-e)
 
 ## Key Skills
 
