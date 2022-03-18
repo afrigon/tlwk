@@ -66,7 +66,7 @@ If the Mesmer fails to reflect the `Blood Shards`, wait for Matthias to start sh
 
 ### Qadim The Peerless Third Lämp
 
-When Qadim reaches 33% health, go in the [lamp](/mechanics/quadim-lamp.md) to provide stability to your team while fighting the Giant Veterans by the end of the maze.
+When Qadim reaches 33% health, go in the [lamp](/mechanics/qadim-lamp.md) to provide stability to your team while fighting the Giant Veterans by the end of the maze.
 
 ### River
 

@@ -119,7 +119,7 @@ You will be the main tank. Make sure you know how to tank all of the bosses.
 
 #### Destroyer
 
-- Starts when quadim reaches 66% health
+- Starts when qadim reaches 66% health
 - Sidestep the attacks.
 - If an attack is impossible to sidestep use a block or an evade.
 
@@ -127,7 +127,7 @@ You will be the main tank. Make sure you know how to tank all of the bosses.
 
 #### Wyvern Patriarch
 
-- Starts when quadim reaches 33% health
+- Starts when qadim reaches 33% health
 - Walk out of the flame breath
 - Sidestep the `Tail Swipe`
 - Avoid the `Slash` by dodging the sideways punch (kockback) and by being inside the hitbox to avoid the downward punch.

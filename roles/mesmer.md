@@ -187,7 +187,7 @@ You will be the off tank, when a second tank is required or when the main tank i
 
 #### Destroyer
 
-- Starts when quadim reaches 66% health
+- Starts when qadim reaches 66% health
 - Sidestep the attacks.
 - If an attack is impossible to sidestep use a block or an evade.
 
@@ -197,7 +197,7 @@ You will be the off tank, when a second tank is required or when the main tank i
 
 You are in charge to keep the Wyvern Matriarch busy while the group is handling the Wyvern Patriarch.
 
-- Starts when quadim reaches 33% health
+- Starts when qadim reaches 33% health
 - Stay alive until Zommorros takes over
 - Walk out of the flame breath
 - Walk out of the `Wing Buffet` and make sure the wyvern is facing away from the group
@@ -217,11 +217,11 @@ You are in charge to keep the Wyvern Matriarch busy while the group is handling 
 
 You will be main tank on this fight because it's free for you. Get as much toughness as you need and a shield.
 
-- Use the Special Action Key to link to quadim and be the tank
+- Use the Special Action Key to link to qadim and be the tank
 - Quadim will do a cone attack followed by a barrage of attacks after a few seconds 3 times in a row followed by a road attack. Make sure you have a block ready for all 3 (Ex: `Signet of Inspiration` / `Signet of the Ether` > `Blurred Frenzy`, `Echo of Memory`, `Deja Vu`) 
 - Tank on the right side of the pylon so the kiter has safe space on the left side
 - Position yourself on the left side between the pylon and the orb during the third barrage of attacks to drop the road (you can stack the roads on top of each other during `Deja Vu`)
-- At 20%, make sure you are the first player in the circle to get fixation. You can stay close to quadim and dodge the kockback
+- At 20%, make sure you are the first player in the circle to get fixation. You can stay close to qadim and dodge the kockback
 
 [Example TODO]()
 

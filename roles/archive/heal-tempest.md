@@ -121,7 +121,7 @@ You should stay further out to kite the steal attack from Kenut. Dodge the hit t
 
 ### Quadim Matriarch Tank
 
-- Starts when quadim reaches 33% health
+- Starts when qadim reaches 33% health
 - Stay alive until Zommorros takes over
 - Walk out of the flame breath
 - Walk out of the `Wing Buffet` and make sure the wyvern is facing away from the group
