@@ -36,7 +36,7 @@ Please open the door :peepoShy:
 
 A thief player will have to do the [lamp](/mechanics/qadim-lamp.md) for us to progress the fight. Make sure you take `Improvisation` to have 2 `Throw Magnetic Bomb`. You can pre-steal on Quadim at the start of the fight. If you have to do the lamp alone, take `Invigorating Precision` to help you stay alive.
 
-[Example]()
+[Example TODO]()
 
 ### Qadim Kite
 
@@ -50,4 +50,14 @@ Flame Slash x4 > Shattering Impact
 
 It is extremely important you dodge the `Flame Slash` and the `Shattering Impact`. the rest of the attack can be avoided by standing far in the blue sections. Change platform after every `Shattering Impact`.
 
-[Example]() - [Deadeye Kite Build](http://gw2skills.net/editor/?PaxAQprlFwwYPMJ2JO8L7vWA-zxQYhomDcH0Xh0SIERCURFY7BJM2DvF9nBA-e)
+[Example](https://youtu.be/pa8XaC_oOq8) - [Deadeye Q1 Kite Build](http://gw2skills.net/editor/?PaxAQprlFwwYPMJ2JO8L7vWA-zxQYhomDcH0Xh0SIERCURFY7BJM2DvF9nBA-e)
+
+### Quadim the Peerless Kite
+
+Use the Special Action Key to link to one of the 3 pylons.
+Use `Shadowstep` to catch the orbs clockwise and bring them back to the pylon.
+You can leave your pylon for only a few seconds before Qadim reclaims your pylon.
+At 40%, 30% and 20% Qadim rushes a pylon (north, west, east respectively) and destroys it. Watch the boss health to avoid getting killed by this attack.
+After your pylon is destroyed, join the group and finish the fight as a dps.
+
+[Example]() - [Deadeye Q2 Kite Build](http://gw2skills.net/editor/?PaxAQprlFwwYbsImJO6L7vKA-zxQYhomDcH0Xh0SIERCURFY7BJM2DvF9nBA-e)
