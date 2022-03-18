@@ -32,13 +32,13 @@
 
 Please open the door :peepoShy:
 
-### Quadim Lamp
+### Qadim Lamp
 
-A thief player will have to do the [lamp](/mechanics/quadim-lamp.md) for us to progress the fight. Make sure you take `Improvisation` to have 2 `Throw Magnetic Bomb`. You can pre-steal on Quadim at the start of the fight. If you have to do the lamp alone, take `Invigorating Precision` to help you stay alive.
+A thief player will have to do the [lamp](/mechanics/qadim-lamp.md) for us to progress the fight. Make sure you take `Improvisation` to have 2 `Throw Magnetic Bomb`. You can pre-steal on Quadim at the start of the fight. If you have to do the lamp alone, take `Invigorating Precision` to help you stay alive.
 
 [Example]()
 
-### Quadim Kite
+### Qadim Kite
 
 You need to stamp on Quadim's platform in order to prevent him from destroying the arena. While you kite, your job is to kill the slublings trying to reach the boss and stay alive at all cost. The attack pattern goes like this:
 
