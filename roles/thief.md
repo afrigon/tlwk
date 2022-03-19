@@ -40,7 +40,7 @@ A thief player will have to do the [lamp](/mechanics/qadim-lamp.md) for us to pr
 
 ### Qadim Kite
 
-You need to stamp on Qadim's platform in order to prevent him from destroying the arena. While you kite, your job is to kill the slublings trying to reach the boss and stay alive at all cost. The attack pattern goes like this:
+You need to stand on Qadim's platform in order to prevent him from destroying the arena. While you kite, your job is to kill the slublings trying to reach the boss and stay alive at all cost. The attack pattern goes like this:
 
 ```
 Flame Slash x2 > Flame Wave > Flame Slash > Fire Dance
