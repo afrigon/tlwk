@@ -26,7 +26,7 @@
 - `Pistol Whip` (100)
 - `Palm Strike` (200)
 
-## Scecial Roles
+## Special Roles
 
 ### Samarog Door
 
@@ -40,7 +40,7 @@ A thief player will have to do the [lamp](/mechanics/qadim-lamp.md) for us to pr
 
 ### Qadim Kite
 
-You need to stamp on Quadim's platform in order to prevent him from destroying the arena. While you kite, your job is to kill the slublings trying to reach the boss and stay alive at all cost. The attack pattern goes like this:
+You need to stamp on Qadim's platform in order to prevent him from destroying the arena. While you kite, your job is to kill the slublings trying to reach the boss and stay alive at all cost. The attack pattern goes like this:
 
 ```
 Flame Slash x2 > Flame Wave > Flame Slash > Fire Dance
@@ -48,7 +48,7 @@ Flame Slash x2 > Flame Wave > Flame Slash > Fire Dance
 Flame Slash x4 > Shattering Impact
 ```
 
-It is extremely important you dodge the `Flame Slash` and the `Shattering Impact`. the rest of the attack can be avoided by standing far in the blue sections. Change platform after every `Shattering Impact`.
+It is extremely important you dodge the `Flame Wave` (since it knocks back) and the `Shattering Impact`. The rest of the attack can be avoided by standing far in the blue sections. Change platform after every `Shattering Impact`.
 
 [Example](https://youtu.be/pa8XaC_oOq8) - [Deadeye Q1 Kite Build](http://gw2skills.net/editor/?PaxAQprlFwwYPMJ2JO8L7vWA-zxQYhomDcH0Xh0SIERCURFY7BJM2DvF9nBA-e)
 
