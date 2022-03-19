@@ -52,6 +52,7 @@ The ranger brings might, regeneration, fury, swiftness, and 60% protection.
 
 - Fanged Iboga - Dammage
 - White Tiger - Aegis
+- Siege Turtle - Protection and projectile destruction
 - Electric Wyvern - Crowd Control
 - Brown Bear - Condition Cleanse
 - Blue Moa - Protection
