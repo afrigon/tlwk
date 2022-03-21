@@ -60,4 +60,4 @@ You can leave your pylon for only a few seconds before Qadim reclaims your pylon
 At 40%, 30% and 20% Qadim rushes a pylon (north, west, east respectively) and destroys it. Watch the boss health to avoid getting killed by this attack.
 After your pylon is destroyed, join the group and finish the fight as a dps.
 
-[Example]() - [Deadeye Q2 Kite Build](http://gw2skills.net/editor/?PaxAQprlFwwYbsImJO6L7vKA-zxQYhomDcH0Xh0SIERCURFY7BJM2DvF9nBA-e)
+[Example](https://youtu.be/ne7-TLC8FcE) - [Deadeye Q2 Kite Build](http://gw2skills.net/editor/?PaxAQprlFwwYbsImJO6L7vKA-zxQYhomDcH0Xh0SIERCURFY7BJM2DvF9nBA-e)
