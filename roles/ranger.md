@@ -24,12 +24,12 @@
 
 ## Boon Responsability
 
-The ranger brings might, regeneration, fury, swiftness, and 60% protection.
+The ranger brings might, regeneration, fury, swiftness, and protection.
 
 ## Crowd Control
 
 - `Primal Echoes` / when you swap to staff (100)
-- `Call of the Wild` / Air Warhorn 5 (200)
+- `Call of the Wild` / Warhorn 5 (200)
 - `Lunar Impact` / CA 3 (150)
 - `Glyph of Tides` (150)
 - `Glyph of Equality` (200)
