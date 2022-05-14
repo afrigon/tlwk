@@ -40,7 +40,7 @@ The ranger brings might, regeneration, fury, swiftness, and protection.
 
 - `Entagle`
 - `Vine Surge` / Staff 4
-- `Natural Convergence` \ CA 5
+- `Natural Convergence` / CA 5
 - `Jacaranda's Embrace`
 - `Quicksand` / Stone Spirit's active
 
