@@ -1,6 +1,6 @@
 # Elementalist
 
-[Heal Tempest Build](http://gw2skills.net/editor/?PGhEgEWGBrh5wWYlYpNp36A-zRRYjhoaXNaq1IKjqLg0TAfPICQ6fKbgDgt0+mF-e)
+[Heal Tempest Build](http://gw2skills.net/editor/?PGhEgEWGBrh5wWYlYpNp3aB-zRRYjhoaXNaq1IKjqLg0TAfPICQ6fKbgDgt0+mF-e)
 
 ## Key Skills
 
@@ -26,6 +26,10 @@ This is the most important boon to apply, the elementalist brings protection for
 ### Might
 
 Use the fire overload to stack might and blast your fire field using `Aftershock` and `Sand Squell`. Abuse `Heat Sync` / Fire Warhorn 4 to copy **ALL** of your might to nearby allies (adds on top of currently applied might).
+
+### Alacrity
+
+The trait `Lucid Singularity` will provide alacrity to your party as a side effect of overloads.
 
 ### Regeneration and Vigor
 
