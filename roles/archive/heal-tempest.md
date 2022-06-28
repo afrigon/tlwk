@@ -17,7 +17,7 @@
 
 ## Boon Responsability
 
-The elementalist brings protection, regeneration, might, fury, vigor and swiftness for 5 players.
+The elementalist brings protection, regeneration, might, fury, alacrity, vigor and swiftness for 5 players.
 
 ### Protection
 
